@@ -1,0 +1,118 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies.lock
+.pub-cache/
+
+# Build related
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.xcframework/
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/Flutter/Generated.xcconfig
+ios/ServiceDefinitions.json
+
+# IntelliJ related
+.idea/
+*.iml
+
+# VS Code related
+.vscode/
+*.code-workspace
+
+# Android related
+.gradle/
+local.properties
+*.log
+*.keystore
+*.jks
+*.hprof
+
+# Xcode related
+**/DerivedData/
+**/xcuserdata/
+**/project.xcworkspace/
+**/*.xcuserstate
+**/Pods/
+**/.symlinks/
+**/Flutter/
+**/Flutter/Flutter.podspec
+**/Flutter/Flutter.xcframework/
+**/Flutter/App.framework
+**/Flutter/engine/
+
+# Web related
+web/.sass-cache/
+web/.jekyll-cache/
+web/.parcel-cache/
+web/.next/
+web/.nuxt/
+web/.output/
+
+# Windows related
+windows/.gradle/
+windows/.flutter-plugins
+windows/.flutter-plugins-dependencies
+windows/.flutter-plugins-dependencies.lock
+windows/.dart_tool/
+windows/.build_cache/
+
+# Linux related
+linux/.gradle/
+linux/.flutter-plugins
+linux/.flutter-plugins-dependencies
+linux/.flutter-plugins-dependencies.lock
+linux/.dart_tool/
+linux/.build_cache/
+
+# MacOS related
+macos/.gradle/
+macos/.flutter-plugins
+macos/.flutter-plugins-dependencies
+macos/.flutter-plugins-dependencies.lock
+macos/.dart_tool/
+macos/.build_cache/
+
+# Firebase related
+ios/GoogleService-Info.plist
+android/app/google-services.json
+
+# JetBrains related
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# Coverage related
+coverage/
+.coverage
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+pubspec.lock
+
+# Dependencies
+/bin/
+/cache/
+/build/
+
+# Obfuscation and optimization
+/symbols/
+/bin/
+/libs/
+
+# Other
+*.swp
+*~
